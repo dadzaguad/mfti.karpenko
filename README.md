@@ -1,7 +1,3 @@
-Вот обновленный `README.md`, который включает описание добавленного кода:
-
----
-
 # Pygame Ball Clicker Game
 
 This repository contains a simple Pygame application that features a basic clicking game where players can click on randomly generated colored balls to score points. The game is designed to provide an entertaining experience while demonstrating fundamental concepts of game development with Pygame.
