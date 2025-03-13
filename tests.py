@@ -130,7 +130,6 @@ def test_turtle_polygons():
         figure_length += 5
     turtle.bye()
 
-Просто Жиробас, [13/03/2025 14:14]
 # Тест 8: Рисование "злого смайлика" с использованием pygame
 def test_angry_smile_pygame():
     pygame.init()
@@ -243,7 +242,6 @@ def test_complex_scene_pygame():
     ellipse(screen, (255, 255, 255), (430, 430, 70, 50))
     ellipse(screen, (229, 128, 255), (465, 450, 20, 20))
 
-Просто Жиробас, [13/03/2025 14:14]
 ellipse(screen, (0, 0, 0), (475, 455, 10, 10))
     # Грива
     for i in range(8):
